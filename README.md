@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# 👋 Hi, I'm Máté Pázmándi
+- 🌱 I'm a (wannabe) 🐍 Python & 🌐 Web Developer
+- 📚 I study **IT** in High School
+- 🌐 My Website is https://mate.pazmandi.net/
 <!--
 **matepazy/matepazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
