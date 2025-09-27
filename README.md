@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Máté Pázmándi
-- 🌱 I'm a (wannabe) 🐍 Python & 🌐 Web Developer
+- 🌱 I'm currently learning OSINT
+- 🧪 I'm constantly working on my homelab
 - 📚 I study **Information Technology & Software Development** in High School
 - 🌐 My Website is https://matepazy.hu/
 <!--
