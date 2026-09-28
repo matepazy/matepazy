@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Máté Pázmándi
-- 🌱 I'm currently learning OSINT
 - 🧪 I'm constantly working on my homelab
-- 📚 I study **Information Technology & Software Development** in High School
+- 📚 I study **Network Engineering** in High School
 - 🌐 My Website is https://matepazy.hu/
+- 📫 Email: mate@pazmandi.net
+- ❗ Report an issue at https://matepazy.hu/report-error
 <!--
 **matepazy/matepazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
