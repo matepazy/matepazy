@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Máté Pázmándi
 - 🧪 I'm constantly working on my homelab
 - 📚 I study **Network Engineering** in High School
-- 🌐 My Website is https://matepazy.hu/
+- 🌐 My Website is https://matepazy.com/
 - 📫 Email: mate@pazmandi.net
-- 🚧 Report an issue at https://matepazy.hu/report-error
+- 🚧 Report an issue at https://matepazy.com/report-error
 <!--
 **matepazy/matepazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
